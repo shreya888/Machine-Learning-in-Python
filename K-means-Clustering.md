@@ -4,7 +4,7 @@ It is a hierarchical agglomerative clustering algorithm.
 It iteratively tries to find local optimum clusters defined using centroids or exemplars.
 After each step, the distance of each cluster point from its cluster centre is revaluated.
 
-This code uses NumPy Python Library and implements the EM algorithm.
+[This code](https://github.com/shreya888/Machine-Learning-in-Python/blob/main/K_means_Clustering.ipynb) uses NumPy Python Library and implements the EM algorithm.
 
 ## Important points to remember
   * Different **initialization of cluster centres** can change the resulting clusters as this method finds locally optimal solutions. It does not guarantee a globally optimal solution.
